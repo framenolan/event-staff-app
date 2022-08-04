@@ -1,12 +1,13 @@
+import './Page.css'
 import Shift from "../components/Shift";
 
 function Signup() {
 
     return (
-        <card className="Signup">
+        <section className="Page" id='Signup'>
             <h2>Sign Up For Upcoming Shifts</h2>
             <Shift/>
-        </card>
+        </section>
     )
 }
 

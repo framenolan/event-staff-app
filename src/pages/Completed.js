@@ -1,12 +1,15 @@
+import './Page.css'
 import Shift from "../components/Shift";
 
 function Completed() {
 
     return (
-        <card className="Completed">
+        <section className="Page" id='Completed'>
             <h2>Completed Shifts</h2>
-            <Shift/>
-        </card>
+            <Shift />
+            <Shift />
+            <Shift />
+        </section>
     )
 }
 

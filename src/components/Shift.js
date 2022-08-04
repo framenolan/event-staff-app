@@ -3,12 +3,10 @@ import './Shift.css'
 function Shift() {
 
     return (
-        <section className='Shift'>
-            <h2>Shift</h2>
-            <form>
+        <card className='Shift'>
+            <h3>Shift</h3>
 
-            </form>
-        </section>
+        </card>
     )
 }
 

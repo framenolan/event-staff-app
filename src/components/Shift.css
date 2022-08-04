@@ -1,6 +1,8 @@
 .Shift {
-    background-color: salmon;
-    border: 5px solid black;
+    background-color: var(--blue3dark);
+    border: 2px solid var(--greytext);
+    border-radius: 8px;
     width: 75%;
+    height: 200px;
     margin: 2em;
 }

@@ -1,0 +1,25 @@
+.Page {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Page h2 {
+    width: 100%;
+    font-size: x-large;
+    margin: 1em;
+    color: var(--greytext);
+    font-weight: lighter;
+}
+
+.Page h3 {
+    width: 100%;
+    font-size: x-large;
+    margin: 0;
+    color: white;
+    font-weight: lighter;
+}
+
+#Completed {
+    
+}
